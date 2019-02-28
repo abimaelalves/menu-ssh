@@ -11,6 +11,6 @@ Menu ssh para lista de servidores a conectar
 * Rodar diretamente no terminal com `./menu-ssh.sh`
 
 
-###Na versão Python basta alterar o JSON no início do script para incluir mais opções.
-###Já o shell script vc precisará replicar blocos de código para ter novas opções
+### Na versão Python basta alterar o JSON no início do script para incluir mais opções.
+### Já o shell script vc precisará replicar blocos de código para ter novas opções
 
